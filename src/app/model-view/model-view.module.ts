@@ -6,6 +6,7 @@ import {ModelViewerLoaderDirective} from "../model-viewer/model-viewer-loader.di
 import { ChairComponent } from './chair/chair.component';
 import { BusinessCardComponent } from './business-card/business-card.component';
 import { MouseComponent } from './mouse/mouse.component';
+import { CowComponent } from './cow/cow.component';
 
 
 @NgModule({
@@ -13,7 +14,8 @@ import { MouseComponent } from './mouse/mouse.component';
     ModelViewerLoaderDirective,
     ChairComponent,
     BusinessCardComponent,
-    MouseComponent
+    MouseComponent,
+    CowComponent
   ],
   imports: [
     CommonModule,

@@ -11,7 +11,8 @@ export class AppComponent {
   items: NbMenuItem[] = [
     {title: 'Business card', link: '/model-view'},
     {title: 'Chair', link: '/model-view/chair'},
-    {title: 'Mouse', link: '/model-view/mouse'}
+    {title: 'Mouse', link: '/model-view/mouse'},
+    {title: 'Cow', link: '/model-view/cow'}
   ];
 
   constructor(private themeService: NbThemeService) {
