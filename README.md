@@ -2,11 +2,20 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
+## Application Requirment
+1. Angular
+2. node.js
+3. yarn
+4. npm
+
+## First Time?
+Enter `yarn` at the root folder, to install required dependency.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-When you want to test, type `npm run start-xr-debug`in the terminal. The content of this command is in `package.json`.
+When you want to test, run `npm run start-xr-debug`in the terminal. The content of this command is in `package.json`.
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.

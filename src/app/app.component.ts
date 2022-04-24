@@ -12,7 +12,8 @@ export class AppComponent {
     {title: 'Business card', link: '/model-view'},
     {title: 'Chair', link: '/model-view/chair'},
     {title: 'Mouse', link: '/model-view/mouse'},
-    {title: 'Cow', link: '/model-view/cow'}
+    {title: 'Cow', link: '/model-view/cow'},
+    {title: 'Cat', link: '/model-view/cat'}
   ];
 
   constructor(private themeService: NbThemeService) {

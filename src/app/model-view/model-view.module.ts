@@ -7,6 +7,7 @@ import { ChairComponent } from './chair/chair.component';
 import { BusinessCardComponent } from './business-card/business-card.component';
 import { MouseComponent } from './mouse/mouse.component';
 import { CowComponent } from './cow/cow.component';
+import { CatComponent } from './cat/cat.component';
 
 
 @NgModule({
@@ -15,7 +16,8 @@ import { CowComponent } from './cow/cow.component';
     ChairComponent,
     BusinessCardComponent,
     MouseComponent,
-    CowComponent
+    CowComponent,
+    CatComponent
   ],
   imports: [
     CommonModule,
