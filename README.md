@@ -2,14 +2,11 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.1.
 
-## Application Requirment
-1. Angular
-2. node.js
-3. yarn
-4. npm
+## Operation Guide
+For more information, visit [Guide on HackMD](https://hackmd.io/@vitas/SJ4Ojqzrc).
 
 ## First Time?
-Enter `yarn` at the root folder, to install required dependency.
+run `yarn` at the root folder, to install required dependency.
 
 ## Development server
 
